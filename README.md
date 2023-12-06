@@ -14,7 +14,7 @@ MNIST（Modified National Institute of Standards and Technology）数据集是�
   图1.1. RSNN的网络结构图
 </p>
 
-（1）输入层：将MNIST训练集$X_{train}$作为输入；
+（1）输入层：将MNIST训练集 $X_{train}$ 作为输入；
 
 （2）隐藏层：采用ReLU为激活函数，第二层的输出为
 $$A_1 = ReLU(X_{train}W_1+b_1)$$
